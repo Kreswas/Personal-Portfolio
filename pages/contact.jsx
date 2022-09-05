@@ -17,12 +17,11 @@ function Contact() {
               Contact
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in exercitation
-              labore anim adipisicing amet irure tempor.
+              If you can't reach me that means im dead.
             </p>
             <ul className="contact-links">
-              <li className="contact-item">Email: lutfhi@me.com</li>
-              <li className="contact-item">Phone: +6212344321007</li>
+              <li className="contact-item">Email: melihuraz@hotmail.com</li>
+              <li className="contact-item">Phone: +43 660 672 9626</li>
             </ul>
           </div>
         </div>
