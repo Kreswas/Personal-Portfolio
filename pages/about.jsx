@@ -17,8 +17,15 @@ function About() {
               About
             </h1>
             <p className="description">
-              A guy who's either 24 or 25 years old. Likes gaming, have 3 cats
-              and a dog, trying to learn how to code and not very creative.
+              A 25 years old guy. Super into tech and always following what's
+              new and trying to get it if it's possible.
+              <br /> Like any kind of games, have 3 cats and a dog, always
+              trying to learn new things and improve myself
+              <br />
+              <br />
+              <br />
+              Fun Fact: I came up with the username "Kreswas" when i was around
+              8 or so and using that name on every platform I am on since then.
             </p>
           </div>
         </div>

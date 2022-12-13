@@ -17,8 +17,8 @@ function Contact() {
               Contact Me!
             </h1>
             <p className="description">
-              If you have any questions or just want to chat maybe <br /> you
-              can always contact me through any of these.
+              If you have any questions or just want to chat maybe(?), <br />{' '}
+              you can always contact me through any of these.
             </p>
             <ul className="contact-links">
               <li className="contact-item">
