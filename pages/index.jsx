@@ -18,12 +18,15 @@ function Home() {
               Hello, I'm Melih Uraz.
             </h1>
             <p className="description">
-              I am a Web Developer student at UpLeveled Vienna. Hoping to become
-              a developer if i can manage.
+              I am a full-stack Web Developer who's very passionate about both
+              front- and back-end.
+              <br /> Always looking to learn new things!
+              <br />
+              Also a big nerd.
             </p>
 
             <Link href="/contact">
-              <a className="cta">Contact Me</a>
+              <a className="cta">Contact Me!</a>
             </Link>
           </div>
 
